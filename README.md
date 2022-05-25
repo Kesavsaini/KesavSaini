@@ -7,7 +7,7 @@
 - 🎯 Goals:Want to Learn about MERN ,Web 3.0 and Blockchain
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/keshav-saini-60aa45231/)
+[![website]([./img/linkedin-light.svg](https://img.icons8.com/ios-filled/344/linkedin-circled--v1.png))](https://www.linkedin.com/in/keshav-saini-60aa45231/)
 
 ### Languages and Tools:
 
