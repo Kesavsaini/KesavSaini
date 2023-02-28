@@ -3,7 +3,15 @@
 
 - 🔭 I’m currently working on **Xrap**
 
+- ⌨ Solving **Programming Problems.**
+
+- 👩‍💻 I’m currently learning and Exploring **new things**
+
+- 💻 Making some Projects using **MERN stack**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Kesavsaini](https://github.com/Kesavsaini)
+
+- 🎯 Goals:Want to Learn about **MERN ,Web 3.0 and Blockchain**
 
 - 📫 How to reach me **kromansaini@gmail.com**
 
