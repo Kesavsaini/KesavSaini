@@ -1,15 +1,4 @@
 <h1 align="center">Hi 👋, I'm Keshav Saini</h1>
-<h3 align="center">I'm a Student, Programmer and Developer!!</h3>
-
-- 🔭 I’m currently working on **SaaS Products**
-
-- ⌨ Solving **Programming Problems.**
-
-- 👩‍💻 I’m currently learning and Exploring **new things**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Kesavsaini](https://github.com/Kesavsaini)
-
-- 📫 How to reach me **kromansaini@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
